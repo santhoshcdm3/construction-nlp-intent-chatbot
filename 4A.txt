@@ -1,0 +1,11 @@
+Material details include the complete information about construction materials used in a project such as:
+
+Material name
+Quantity required
+Size and specification
+Brand details
+Unit price
+Quality standard
+Supplier details
+
+Material details help Quantity Surveyors and Site Engineers monitor stock, control budget, and manage procurement effectively.

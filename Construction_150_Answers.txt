@@ -1,0 +1,437 @@
+CONSTRUCTION PROJECT MANAGEMENT CHATBOT - ANSWERS
+
+1. Project Estimation
+Answer: Project Estimation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+2. Labour Requirement
+Answer: Labour Requirement helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+3. Machinery Requirement
+Answer: Machinery Requirement helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+4. Material Types
+Answer: Material Types helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+5. Land Type Analysis
+Answer: Land Type Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+6. Subcontract Risk
+Answer: Subcontract Risk helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+7. Resource Classification
+Answer: Resource Classification helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+8. Resource Optimization
+Answer: Resource Optimization helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+9. Material Market Price
+Answer: Material Market Price helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+10. Material Wastage Reduction
+Answer: Material Wastage Reduction helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+11. QS Site Coordination
+Answer: QS Site Coordination helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+12. Daily Progress Tracking
+Answer: Daily Progress Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+13. Recovery Planning
+Answer: Recovery Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+14. Funding Management
+Answer: Funding Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+15. Funding Delay Handling
+Answer: Funding Delay Handling helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+16. Material Quality Check
+Answer: Material Quality Check helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+17. Vendor Selection
+Answer: Vendor Selection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+18. Stock Shortage Handling
+Answer: Stock Shortage Handling helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+19. Inventory Management
+Answer: Inventory Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+20. Damaged Stock Utilization
+Answer: Damaged Stock Utilization helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+21. Wage Management
+Answer: Wage Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+22. Monthly Billing
+Answer: Monthly Billing helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+23. Billing Delay Management
+Answer: Billing Delay Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+24. BOQ Preparation
+Answer: BOQ Preparation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+25. Rate Analysis
+Answer: Rate Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+26. Quantity Take Off
+Answer: Quantity Take Off helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+27. Tender Preparation
+Answer: Tender Preparation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+28. Tender Evaluation
+Answer: Tender Evaluation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+29. Contract Review
+Answer: Contract Review helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+30. Contract Risk Analysis
+Answer: Contract Risk Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+31. Project Scheduling
+Answer: Project Scheduling helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+32. Milestone Planning
+Answer: Milestone Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+33. Critical Path Analysis
+Answer: Critical Path Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+34. Cash Flow Planning
+Answer: Cash Flow Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+35. Budget Monitoring
+Answer: Budget Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+36. Cost Variance Analysis
+Answer: Cost Variance Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+37. Project Profitability
+Answer: Project Profitability helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+38. Material Procurement
+Answer: Material Procurement helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+39. Supplier Management
+Answer: Supplier Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+40. Purchase Order Management
+Answer: Purchase Order Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+41. Inventory Auditing
+Answer: Inventory Auditing helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+42. Warehouse Management
+Answer: Warehouse Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+43. Equipment Maintenance
+Answer: Equipment Maintenance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+44. Equipment Utilization
+Answer: Equipment Utilization helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+45. Fuel Consumption Analysis
+Answer: Fuel Consumption Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+46. Safety Management
+Answer: Safety Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+47. Safety Audit
+Answer: Safety Audit helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+48. Quality Assurance
+Answer: Quality Assurance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+49. Quality Control
+Answer: Quality Control helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+50. Site Inspection
+Answer: Site Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+51. Concrete Inspection
+Answer: Concrete Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+52. Steel Inspection
+Answer: Steel Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+53. Brick Inspection
+Answer: Brick Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+54. Plumbing Inspection
+Answer: Plumbing Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+55. Electrical Inspection
+Answer: Electrical Inspection helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+56. Project Dashboard
+Answer: Project Dashboard helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+57. KPI Monitoring
+Answer: KPI Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+58. Resource Forecasting
+Answer: Resource Forecasting helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+59. Work Breakdown Structure
+Answer: Work Breakdown Structure helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+60. Project Scope Management
+Answer: Project Scope Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+61. Change Order Management
+Answer: Change Order Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+62. Variation Management
+Answer: Variation Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+63. Claim Management
+Answer: Claim Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+64. Client Billing
+Answer: Client Billing helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+65. Subcontract Billing
+Answer: Subcontract Billing helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+66. Payment Certification
+Answer: Payment Certification helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+67. Retention Tracking
+Answer: Retention Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+68. Invoice Verification
+Answer: Invoice Verification helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+69. Revenue Tracking
+Answer: Revenue Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+70. Expense Tracking
+Answer: Expense Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+71. Project Delay Analysis
+Answer: Project Delay Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+72. Risk Assessment
+Answer: Risk Assessment helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+73. Risk Mitigation
+Answer: Risk Mitigation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+74. Issue Tracking
+Answer: Issue Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+75. Site Productivity
+Answer: Site Productivity helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+76. Labour Productivity
+Answer: Labour Productivity helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+77. Machine Productivity
+Answer: Machine Productivity helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+78. Material Reconciliation
+Answer: Material Reconciliation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+79. Project Forecasting
+Answer: Project Forecasting helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+80. Completion Prediction
+Answer: Completion Prediction helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+81. Project Closure
+Answer: Project Closure helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+82. Handover Management
+Answer: Handover Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+83. Defect Tracking
+Answer: Defect Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+84. Snag List Management
+Answer: Snag List Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+85. Document Management
+Answer: Document Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+86. Drawing Management
+Answer: Drawing Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+87. Revision Control
+Answer: Revision Control helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+88. Site Communication
+Answer: Site Communication helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+89. Meeting Minutes
+Answer: Meeting Minutes helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+90. Daily Site Report
+Answer: Daily Site Report helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+91. Weekly Progress Report
+Answer: Weekly Progress Report helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+92. Monthly Progress Report
+Answer: Monthly Progress Report helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+93. Resource Allocation
+Answer: Resource Allocation helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+94. Cost Optimization
+Answer: Cost Optimization helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+95. Value Engineering
+Answer: Value Engineering helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+96. Procurement Planning
+Answer: Procurement Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+97. Lead Time Analysis
+Answer: Lead Time Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+98. Stock Reorder Planning
+Answer: Stock Reorder Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+99. Vendor Performance
+Answer: Vendor Performance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+100. Contractor Performance
+Answer: Contractor Performance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+101. Project Compliance
+Answer: Project Compliance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+102. Regulatory Compliance
+Answer: Regulatory Compliance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+103. Environmental Management
+Answer: Environmental Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+104. Waste Management
+Answer: Waste Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+105. Water Management
+Answer: Water Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+106. Energy Management
+Answer: Energy Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+107. Site Logistics
+Answer: Site Logistics helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+108. Transportation Planning
+Answer: Transportation Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+109. Equipment Rental Analysis
+Answer: Equipment Rental Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+110. Plant Management
+Answer: Plant Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+111. Foundation Planning
+Answer: Foundation Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+112. Excavation Monitoring
+Answer: Excavation Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+113. Concrete Pour Planning
+Answer: Concrete Pour Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+114. Structural Progress Tracking
+Answer: Structural Progress Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+115. Finishing Work Tracking
+Answer: Finishing Work Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+116. Electrical Work Tracking
+Answer: Electrical Work Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+117. Plumbing Work Tracking
+Answer: Plumbing Work Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+118. Interior Work Monitoring
+Answer: Interior Work Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+119. External Work Monitoring
+Answer: External Work Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+120. Landscape Planning
+Answer: Landscape Planning helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+121. Project Benchmarking
+Answer: Project Benchmarking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+122. Profit Margin Analysis
+Answer: Profit Margin Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+123. Cost Breakdown Analysis
+Answer: Cost Breakdown Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+124. Earned Value Management
+Answer: Earned Value Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+125. Schedule Variance
+Answer: Schedule Variance helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+126. Cost Performance Index
+Answer: Cost Performance Index helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+127. Schedule Performance Index
+Answer: Schedule Performance Index helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+128. Resource Utilization Index
+Answer: Resource Utilization Index helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+129. Cash Flow Forecast
+Answer: Cash Flow Forecast helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+130. Budget Forecast
+Answer: Budget Forecast helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+131. Project Health Score
+Answer: Project Health Score helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+132. Site Readiness Assessment
+Answer: Site Readiness Assessment helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+133. Procurement Status Tracking
+Answer: Procurement Status Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+134. Material Approval Process
+Answer: Material Approval Process helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+135. Shop Drawing Review
+Answer: Shop Drawing Review helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+136. Method Statement Review
+Answer: Method Statement Review helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+137. Inspection Request Tracking
+Answer: Inspection Request Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+138. Non Conformance Tracking
+Answer: Non Conformance Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+139. Corrective Action Tracking
+Answer: Corrective Action Tracking helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+140. Lessons Learned
+Answer: Lessons Learned helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+141. Knowledge Management
+Answer: Knowledge Management helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+142. Digital Site Monitoring
+Answer: Digital Site Monitoring helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+143. Drone Survey Analysis
+Answer: Drone Survey Analysis helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+144. BIM Coordination
+Answer: BIM Coordination helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+
+145. Project Portfolio Dashboard
+Answer: Project Portfolio Dashboard helps manage, monitor, analyze, and improve project performance, cost, quality, resources, and schedule for successful project completion.
+

@@ -1,0 +1,1452 @@
+CONSTRUCTION PROJECT MANAGEMENT CHATBOT - 150 UNIQUE INTENTS
+
+1-> Project Estimation
+
+1A -> Project Estimation overview
+1B -> explain project estimation
+1C -> project estimation process
+1D -> project estimation best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+2-> Labour Requirement
+
+2A -> Labour Requirement overview
+2B -> explain labour requirement
+2C -> labour requirement process
+2D -> labour requirement best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+3-> Machinery Requirement
+
+3A -> Machinery Requirement overview
+3B -> explain machinery requirement
+3C -> machinery requirement process
+3D -> machinery requirement best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+4-> Material Types
+
+4A -> Material Types overview
+4B -> explain material types
+4C -> material types process
+4D -> material types best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+5-> Land Type Analysis
+
+5A -> Land Type Analysis overview
+5B -> explain land type analysis
+5C -> land type analysis process
+5D -> land type analysis best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+6-> Subcontract Risk
+
+6A -> Subcontract Risk overview
+6B -> explain subcontract risk
+6C -> subcontract risk process
+6D -> subcontract risk best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+7-> Resource Classification
+
+7A -> Resource Classification overview
+7B -> explain resource classification
+7C -> resource classification process
+7D -> resource classification best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+8-> Resource Optimization
+
+8A -> Resource Optimization overview
+8B -> explain resource optimization
+8C -> resource optimization process
+8D -> resource optimization best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+9-> Material Market Price
+
+9A -> Material Market Price overview
+9B -> explain material market price
+9C -> material market price process
+9D -> material market price best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+10-> Material Wastage Reduction
+
+10A -> Material Wastage Reduction overview
+10B -> explain material wastage reduction
+10C -> material wastage reduction process
+10D -> material wastage reduction best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+11-> QS Site Coordination
+
+11A -> QS Site Coordination overview
+11B -> explain qs site coordination
+11C -> qs site coordination process
+11D -> qs site coordination best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+12-> Daily Progress Tracking
+
+12A -> Daily Progress Tracking overview
+12B -> explain daily progress tracking
+12C -> daily progress tracking process
+12D -> daily progress tracking best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+13-> Recovery Planning
+
+13A -> Recovery Planning overview
+13B -> explain recovery planning
+13C -> recovery planning process
+13D -> recovery planning best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+14-> Funding Management
+
+14A -> Funding Management overview
+14B -> explain funding management
+14C -> funding management process
+14D -> funding management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+15-> Funding Delay Handling
+
+15A -> Funding Delay Handling overview
+15B -> explain funding delay handling
+15C -> funding delay handling process
+15D -> funding delay handling best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+16-> Material Quality Check
+
+16A -> Material Quality Check overview
+16B -> explain material quality check
+16C -> material quality check process
+16D -> material quality check best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+17-> Vendor Selection
+
+17A -> Vendor Selection overview
+17B -> explain vendor selection
+17C -> vendor selection process
+17D -> vendor selection best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+18-> Stock Shortage Handling
+
+18A -> Stock Shortage Handling overview
+18B -> explain stock shortage handling
+18C -> stock shortage handling process
+18D -> stock shortage handling best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+19-> Inventory Management
+
+19A -> Inventory Management overview
+19B -> explain inventory management
+19C -> inventory management process
+19D -> inventory management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+20-> Damaged Stock Utilization
+
+20A -> Damaged Stock Utilization overview
+20B -> explain damaged stock utilization
+20C -> damaged stock utilization process
+20D -> damaged stock utilization best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+21-> Wage Management
+
+21A -> Wage Management overview
+21B -> explain wage management
+21C -> wage management process
+21D -> wage management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+22-> Monthly Billing
+
+22A -> Monthly Billing overview
+22B -> explain monthly billing
+22C -> monthly billing process
+22D -> monthly billing best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+23-> Billing Delay Management
+
+23A -> Billing Delay Management overview
+23B -> explain billing delay management
+23C -> billing delay management process
+23D -> billing delay management best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+24-> BOQ Preparation
+
+24A -> BOQ Preparation overview
+24B -> explain boq preparation
+24C -> boq preparation process
+24D -> boq preparation best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+25-> Rate Analysis
+
+25A -> Rate Analysis overview
+25B -> explain rate analysis
+25C -> rate analysis process
+25D -> rate analysis best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+26-> Quantity Take Off
+
+26A -> Quantity Take Off overview
+26B -> explain quantity take off
+26C -> quantity take off process
+26D -> quantity take off best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+27-> Tender Preparation
+
+27A -> Tender Preparation overview
+27B -> explain tender preparation
+27C -> tender preparation process
+27D -> tender preparation best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+28-> Tender Evaluation
+
+28A -> Tender Evaluation overview
+28B -> explain tender evaluation
+28C -> tender evaluation process
+28D -> tender evaluation best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+29-> Contract Review
+
+29A -> Contract Review overview
+29B -> explain contract review
+29C -> contract review process
+29D -> contract review best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+30-> Contract Risk Analysis
+
+30A -> Contract Risk Analysis overview
+30B -> explain contract risk analysis
+30C -> contract risk analysis process
+30D -> contract risk analysis best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+31-> Project Scheduling
+
+31A -> Project Scheduling overview
+31B -> explain project scheduling
+31C -> project scheduling process
+31D -> project scheduling best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+32-> Milestone Planning
+
+32A -> Milestone Planning overview
+32B -> explain milestone planning
+32C -> milestone planning process
+32D -> milestone planning best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+33-> Critical Path Analysis
+
+33A -> Critical Path Analysis overview
+33B -> explain critical path analysis
+33C -> critical path analysis process
+33D -> critical path analysis best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+34-> Cash Flow Planning
+
+34A -> Cash Flow Planning overview
+34B -> explain cash flow planning
+34C -> cash flow planning process
+34D -> cash flow planning best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+35-> Budget Monitoring
+
+35A -> Budget Monitoring overview
+35B -> explain budget monitoring
+35C -> budget monitoring process
+35D -> budget monitoring best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+36-> Cost Variance Analysis
+
+36A -> Cost Variance Analysis overview
+36B -> explain cost variance analysis
+36C -> cost variance analysis process
+36D -> cost variance analysis best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+37-> Project Profitability
+
+37A -> Project Profitability overview
+37B -> explain project profitability
+37C -> project profitability process
+37D -> project profitability best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+38-> Material Procurement
+
+38A -> Material Procurement overview
+38B -> explain material procurement
+38C -> material procurement process
+38D -> material procurement best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+39-> Supplier Management
+
+39A -> Supplier Management overview
+39B -> explain supplier management
+39C -> supplier management process
+39D -> supplier management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+40-> Purchase Order Management
+
+40A -> Purchase Order Management overview
+40B -> explain purchase order management
+40C -> purchase order management process
+40D -> purchase order management best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+41-> Inventory Auditing
+
+41A -> Inventory Auditing overview
+41B -> explain inventory auditing
+41C -> inventory auditing process
+41D -> inventory auditing best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+42-> Warehouse Management
+
+42A -> Warehouse Management overview
+42B -> explain warehouse management
+42C -> warehouse management process
+42D -> warehouse management best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+43-> Equipment Maintenance
+
+43A -> Equipment Maintenance overview
+43B -> explain equipment maintenance
+43C -> equipment maintenance process
+43D -> equipment maintenance best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+44-> Equipment Utilization
+
+44A -> Equipment Utilization overview
+44B -> explain equipment utilization
+44C -> equipment utilization process
+44D -> equipment utilization best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+45-> Fuel Consumption Analysis
+
+45A -> Fuel Consumption Analysis overview
+45B -> explain fuel consumption analysis
+45C -> fuel consumption analysis process
+45D -> fuel consumption analysis best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+46-> Safety Management
+
+46A -> Safety Management overview
+46B -> explain safety management
+46C -> safety management process
+46D -> safety management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+47-> Safety Audit
+
+47A -> Safety Audit overview
+47B -> explain safety audit
+47C -> safety audit process
+47D -> safety audit best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+48-> Quality Assurance
+
+48A -> Quality Assurance overview
+48B -> explain quality assurance
+48C -> quality assurance process
+48D -> quality assurance best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+49-> Quality Control
+
+49A -> Quality Control overview
+49B -> explain quality control
+49C -> quality control process
+49D -> quality control best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+50-> Site Inspection
+
+50A -> Site Inspection overview
+50B -> explain site inspection
+50C -> site inspection process
+50D -> site inspection best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+51-> Concrete Inspection
+
+51A -> Concrete Inspection overview
+51B -> explain concrete inspection
+51C -> concrete inspection process
+51D -> concrete inspection best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+52-> Steel Inspection
+
+52A -> Steel Inspection overview
+52B -> explain steel inspection
+52C -> steel inspection process
+52D -> steel inspection best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+53-> Brick Inspection
+
+53A -> Brick Inspection overview
+53B -> explain brick inspection
+53C -> brick inspection process
+53D -> brick inspection best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+54-> Plumbing Inspection
+
+54A -> Plumbing Inspection overview
+54B -> explain plumbing inspection
+54C -> plumbing inspection process
+54D -> plumbing inspection best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+55-> Electrical Inspection
+
+55A -> Electrical Inspection overview
+55B -> explain electrical inspection
+55C -> electrical inspection process
+55D -> electrical inspection best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+56-> Project Dashboard
+
+56A -> Project Dashboard overview
+56B -> explain project dashboard
+56C -> project dashboard process
+56D -> project dashboard best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+57-> KPI Monitoring
+
+57A -> KPI Monitoring overview
+57B -> explain kpi monitoring
+57C -> kpi monitoring process
+57D -> kpi monitoring best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+58-> Resource Forecasting
+
+58A -> Resource Forecasting overview
+58B -> explain resource forecasting
+58C -> resource forecasting process
+58D -> resource forecasting best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+59-> Work Breakdown Structure
+
+59A -> Work Breakdown Structure overview
+59B -> explain work breakdown structure
+59C -> work breakdown structure process
+59D -> work breakdown structure best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+60-> Project Scope Management
+
+60A -> Project Scope Management overview
+60B -> explain project scope management
+60C -> project scope management process
+60D -> project scope management best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+61-> Change Order Management
+
+61A -> Change Order Management overview
+61B -> explain change order management
+61C -> change order management process
+61D -> change order management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+62-> Variation Management
+
+62A -> Variation Management overview
+62B -> explain variation management
+62C -> variation management process
+62D -> variation management best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+63-> Claim Management
+
+63A -> Claim Management overview
+63B -> explain claim management
+63C -> claim management process
+63D -> claim management best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+64-> Client Billing
+
+64A -> Client Billing overview
+64B -> explain client billing
+64C -> client billing process
+64D -> client billing best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+65-> Subcontract Billing
+
+65A -> Subcontract Billing overview
+65B -> explain subcontract billing
+65C -> subcontract billing process
+65D -> subcontract billing best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+66-> Payment Certification
+
+66A -> Payment Certification overview
+66B -> explain payment certification
+66C -> payment certification process
+66D -> payment certification best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+67-> Retention Tracking
+
+67A -> Retention Tracking overview
+67B -> explain retention tracking
+67C -> retention tracking process
+67D -> retention tracking best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+68-> Invoice Verification
+
+68A -> Invoice Verification overview
+68B -> explain invoice verification
+68C -> invoice verification process
+68D -> invoice verification best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+69-> Revenue Tracking
+
+69A -> Revenue Tracking overview
+69B -> explain revenue tracking
+69C -> revenue tracking process
+69D -> revenue tracking best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+70-> Expense Tracking
+
+70A -> Expense Tracking overview
+70B -> explain expense tracking
+70C -> expense tracking process
+70D -> expense tracking best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+71-> Project Delay Analysis
+
+71A -> Project Delay Analysis overview
+71B -> explain project delay analysis
+71C -> project delay analysis process
+71D -> project delay analysis best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+72-> Risk Assessment
+
+72A -> Risk Assessment overview
+72B -> explain risk assessment
+72C -> risk assessment process
+72D -> risk assessment best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+73-> Risk Mitigation
+
+73A -> Risk Mitigation overview
+73B -> explain risk mitigation
+73C -> risk mitigation process
+73D -> risk mitigation best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+74-> Issue Tracking
+
+74A -> Issue Tracking overview
+74B -> explain issue tracking
+74C -> issue tracking process
+74D -> issue tracking best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+75-> Site Productivity
+
+75A -> Site Productivity overview
+75B -> explain site productivity
+75C -> site productivity process
+75D -> site productivity best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+76-> Labour Productivity
+
+76A -> Labour Productivity overview
+76B -> explain labour productivity
+76C -> labour productivity process
+76D -> labour productivity best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+77-> Machine Productivity
+
+77A -> Machine Productivity overview
+77B -> explain machine productivity
+77C -> machine productivity process
+77D -> machine productivity best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+78-> Material Reconciliation
+
+78A -> Material Reconciliation overview
+78B -> explain material reconciliation
+78C -> material reconciliation process
+78D -> material reconciliation best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+79-> Project Forecasting
+
+79A -> Project Forecasting overview
+79B -> explain project forecasting
+79C -> project forecasting process
+79D -> project forecasting best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+80-> Completion Prediction
+
+80A -> Completion Prediction overview
+80B -> explain completion prediction
+80C -> completion prediction process
+80D -> completion prediction best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+81-> Project Closure
+
+81A -> Project Closure overview
+81B -> explain project closure
+81C -> project closure process
+81D -> project closure best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+82-> Handover Management
+
+82A -> Handover Management overview
+82B -> explain handover management
+82C -> handover management process
+82D -> handover management best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+83-> Defect Tracking
+
+83A -> Defect Tracking overview
+83B -> explain defect tracking
+83C -> defect tracking process
+83D -> defect tracking best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+84-> Snag List Management
+
+84A -> Snag List Management overview
+84B -> explain snag list management
+84C -> snag list management process
+84D -> snag list management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+85-> Document Management
+
+85A -> Document Management overview
+85B -> explain document management
+85C -> document management process
+85D -> document management best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+86-> Drawing Management
+
+86A -> Drawing Management overview
+86B -> explain drawing management
+86C -> drawing management process
+86D -> drawing management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+87-> Revision Control
+
+87A -> Revision Control overview
+87B -> explain revision control
+87C -> revision control process
+87D -> revision control best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+88-> Site Communication
+
+88A -> Site Communication overview
+88B -> explain site communication
+88C -> site communication process
+88D -> site communication best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+89-> Meeting Minutes
+
+89A -> Meeting Minutes overview
+89B -> explain meeting minutes
+89C -> meeting minutes process
+89D -> meeting minutes best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+90-> Daily Site Report
+
+90A -> Daily Site Report overview
+90B -> explain daily site report
+90C -> daily site report process
+90D -> daily site report best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+91-> Weekly Progress Report
+
+91A -> Weekly Progress Report overview
+91B -> explain weekly progress report
+91C -> weekly progress report process
+91D -> weekly progress report best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+92-> Monthly Progress Report
+
+92A -> Monthly Progress Report overview
+92B -> explain monthly progress report
+92C -> monthly progress report process
+92D -> monthly progress report best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+93-> Resource Allocation
+
+93A -> Resource Allocation overview
+93B -> explain resource allocation
+93C -> resource allocation process
+93D -> resource allocation best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+94-> Cost Optimization
+
+94A -> Cost Optimization overview
+94B -> explain cost optimization
+94C -> cost optimization process
+94D -> cost optimization best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+95-> Value Engineering
+
+95A -> Value Engineering overview
+95B -> explain value engineering
+95C -> value engineering process
+95D -> value engineering best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+96-> Procurement Planning
+
+96A -> Procurement Planning overview
+96B -> explain procurement planning
+96C -> procurement planning process
+96D -> procurement planning best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+97-> Lead Time Analysis
+
+97A -> Lead Time Analysis overview
+97B -> explain lead time analysis
+97C -> lead time analysis process
+97D -> lead time analysis best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+98-> Stock Reorder Planning
+
+98A -> Stock Reorder Planning overview
+98B -> explain stock reorder planning
+98C -> stock reorder planning process
+98D -> stock reorder planning best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+99-> Vendor Performance
+
+99A -> Vendor Performance overview
+99B -> explain vendor performance
+99C -> vendor performance process
+99D -> vendor performance best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+100-> Contractor Performance
+
+100A -> Contractor Performance overview
+100B -> explain contractor performance
+100C -> contractor performance process
+100D -> contractor performance best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+101-> Project Compliance
+
+101A -> Project Compliance overview
+101B -> explain project compliance
+101C -> project compliance process
+101D -> project compliance best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+102-> Regulatory Compliance
+
+102A -> Regulatory Compliance overview
+102B -> explain regulatory compliance
+102C -> regulatory compliance process
+102D -> regulatory compliance best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+103-> Environmental Management
+
+103A -> Environmental Management overview
+103B -> explain environmental management
+103C -> environmental management process
+103D -> environmental management best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+104-> Waste Management
+
+104A -> Waste Management overview
+104B -> explain waste management
+104C -> waste management process
+104D -> waste management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+105-> Water Management
+
+105A -> Water Management overview
+105B -> explain water management
+105C -> water management process
+105D -> water management best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+106-> Energy Management
+
+106A -> Energy Management overview
+106B -> explain energy management
+106C -> energy management process
+106D -> energy management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+107-> Site Logistics
+
+107A -> Site Logistics overview
+107B -> explain site logistics
+107C -> site logistics process
+107D -> site logistics best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+108-> Transportation Planning
+
+108A -> Transportation Planning overview
+108B -> explain transportation planning
+108C -> transportation planning process
+108D -> transportation planning best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+109-> Equipment Rental Analysis
+
+109A -> Equipment Rental Analysis overview
+109B -> explain equipment rental analysis
+109C -> equipment rental analysis process
+109D -> equipment rental analysis best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+110-> Plant Management
+
+110A -> Plant Management overview
+110B -> explain plant management
+110C -> plant management process
+110D -> plant management best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+111-> Foundation Planning
+
+111A -> Foundation Planning overview
+111B -> explain foundation planning
+111C -> foundation planning process
+111D -> foundation planning best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+112-> Excavation Monitoring
+
+112A -> Excavation Monitoring overview
+112B -> explain excavation monitoring
+112C -> excavation monitoring process
+112D -> excavation monitoring best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+113-> Concrete Pour Planning
+
+113A -> Concrete Pour Planning overview
+113B -> explain concrete pour planning
+113C -> concrete pour planning process
+113D -> concrete pour planning best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+114-> Structural Progress Tracking
+
+114A -> Structural Progress Tracking overview
+114B -> explain structural progress tracking
+114C -> structural progress tracking process
+114D -> structural progress tracking best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+115-> Finishing Work Tracking
+
+115A -> Finishing Work Tracking overview
+115B -> explain finishing work tracking
+115C -> finishing work tracking process
+115D -> finishing work tracking best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+116-> Electrical Work Tracking
+
+116A -> Electrical Work Tracking overview
+116B -> explain electrical work tracking
+116C -> electrical work tracking process
+116D -> electrical work tracking best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+117-> Plumbing Work Tracking
+
+117A -> Plumbing Work Tracking overview
+117B -> explain plumbing work tracking
+117C -> plumbing work tracking process
+117D -> plumbing work tracking best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+118-> Interior Work Monitoring
+
+118A -> Interior Work Monitoring overview
+118B -> explain interior work monitoring
+118C -> interior work monitoring process
+118D -> interior work monitoring best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+119-> External Work Monitoring
+
+119A -> External Work Monitoring overview
+119B -> explain external work monitoring
+119C -> external work monitoring process
+119D -> external work monitoring best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+120-> Landscape Planning
+
+120A -> Landscape Planning overview
+120B -> explain landscape planning
+120C -> landscape planning process
+120D -> landscape planning best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+121-> Project Benchmarking
+
+121A -> Project Benchmarking overview
+121B -> explain project benchmarking
+121C -> project benchmarking process
+121D -> project benchmarking best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+122-> Profit Margin Analysis
+
+122A -> Profit Margin Analysis overview
+122B -> explain profit margin analysis
+122C -> profit margin analysis process
+122D -> profit margin analysis best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+123-> Cost Breakdown Analysis
+
+123A -> Cost Breakdown Analysis overview
+123B -> explain cost breakdown analysis
+123C -> cost breakdown analysis process
+123D -> cost breakdown analysis best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+124-> Earned Value Management
+
+124A -> Earned Value Management overview
+124B -> explain earned value management
+124C -> earned value management process
+124D -> earned value management best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+125-> Schedule Variance
+
+125A -> Schedule Variance overview
+125B -> explain schedule variance
+125C -> schedule variance process
+125D -> schedule variance best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+126-> Cost Performance Index
+
+126A -> Cost Performance Index overview
+126B -> explain cost performance index
+126C -> cost performance index process
+126D -> cost performance index best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+127-> Schedule Performance Index
+
+127A -> Schedule Performance Index overview
+127B -> explain schedule performance index
+127C -> schedule performance index process
+127D -> schedule performance index best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+128-> Resource Utilization Index
+
+128A -> Resource Utilization Index overview
+128B -> explain resource utilization index
+128C -> resource utilization index process
+128D -> resource utilization index best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+129-> Cash Flow Forecast
+
+129A -> Cash Flow Forecast overview
+129B -> explain cash flow forecast
+129C -> cash flow forecast process
+129D -> cash flow forecast best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+130-> Budget Forecast
+
+130A -> Budget Forecast overview
+130B -> explain budget forecast
+130C -> budget forecast process
+130D -> budget forecast best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+131-> Project Health Score
+
+131A -> Project Health Score overview
+131B -> explain project health score
+131C -> project health score process
+131D -> project health score best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+132-> Site Readiness Assessment
+
+132A -> Site Readiness Assessment overview
+132B -> explain site readiness assessment
+132C -> site readiness assessment process
+132D -> site readiness assessment best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+133-> Procurement Status Tracking
+
+133A -> Procurement Status Tracking overview
+133B -> explain procurement status tracking
+133C -> procurement status tracking process
+133D -> procurement status tracking best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+134-> Material Approval Process
+
+134A -> Material Approval Process overview
+134B -> explain material approval process
+134C -> material approval process process
+134D -> material approval process best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+135-> Shop Drawing Review
+
+135A -> Shop Drawing Review overview
+135B -> explain shop drawing review
+135C -> shop drawing review process
+135D -> shop drawing review best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+136-> Method Statement Review
+
+136A -> Method Statement Review overview
+136B -> explain method statement review
+136C -> method statement review process
+136D -> method statement review best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+137-> Inspection Request Tracking
+
+137A -> Inspection Request Tracking overview
+137B -> explain inspection request tracking
+137C -> inspection request tracking process
+137D -> inspection request tracking best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+138-> Non Conformance Tracking
+
+138A -> Non Conformance Tracking overview
+138B -> explain non conformance tracking
+138C -> non conformance tracking process
+138D -> non conformance tracking best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+139-> Corrective Action Tracking
+
+139A -> Corrective Action Tracking overview
+139B -> explain corrective action tracking
+139C -> corrective action tracking process
+139D -> corrective action tracking best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+140-> Lessons Learned
+
+140A -> Lessons Learned overview
+140B -> explain lessons learned
+140C -> lessons learned process
+140D -> lessons learned best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+
+141-> Knowledge Management
+
+141A -> Knowledge Management overview
+141B -> explain knowledge management
+141C -> knowledge management process
+141D -> knowledge management best practices
+
+return to users: Structure Data
+----------------------------------------------------------------------
+
+142-> Digital Site Monitoring
+
+142A -> Digital Site Monitoring overview
+142B -> explain digital site monitoring
+142C -> digital site monitoring process
+142D -> digital site monitoring best practices
+
+return to users: Excel
+----------------------------------------------------------------------
+
+143-> Drone Survey Analysis
+
+143A -> Drone Survey Analysis overview
+143B -> explain drone survey analysis
+143C -> drone survey analysis process
+143D -> drone survey analysis best practices
+
+return to users: PDF
+----------------------------------------------------------------------
+
+144-> BIM Coordination
+
+144A -> BIM Coordination overview
+144B -> explain bim coordination
+144C -> bim coordination process
+144D -> bim coordination best practices
+
+return to users: Image
+----------------------------------------------------------------------
+
+145-> Project Portfolio Dashboard
+
+145A -> Project Portfolio Dashboard overview
+145B -> explain project portfolio dashboard
+145C -> project portfolio dashboard process
+145D -> project portfolio dashboard best practices
+
+return to users: Txt.file
+----------------------------------------------------------------------
+

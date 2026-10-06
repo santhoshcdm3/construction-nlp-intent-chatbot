@@ -1,0 +1,17 @@
+Required materials are identified based on:
+
+Project drawings
+BOQ (Bill of Quantity)
+Site conditions
+Construction activities
+
+Different activities require different materials.
+
+Examples:
+
+Foundation work → Cement, steel, aggregates
+Brickwork → Bricks, cement, sand
+Flooring → Tiles, granite, marble
+Electrical work → Wires, switches, conduits
+
+Proper material requirement planning helps avoid shortages, delays, and excess purchasing.

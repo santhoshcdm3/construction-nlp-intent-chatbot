@@ -1,0 +1,1 @@
+Labour count refers to calculating the total number of workers required for project execution. It includes skilled, semi-skilled, and unskilled labour based on project workload, duration, and productivity. Labour count helps in workforce management and budget planning.
